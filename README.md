@@ -11,5 +11,4 @@ If your security tools has been ranked or accepted in a Black Hat Arsenal sessio
 [![Arsenal](https://github.com/toolswatch/badges/blob/master/toptools/2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
 
 
-
 ### Black Hat Arsenal
