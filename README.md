@@ -61,11 +61,11 @@ Use only 1 badge per year even if your tool was selected for different sessions 
 
 **Markdown code:**
 
-`[![Arsenal](https://www.toolswatch.org/badges/arsenal/2011.svg)](https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/)`
+`[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2011.svg)](https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/)`
 
 **HTML code:**
 
-`<a href="https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/"><img alt="top tools badge" src="https://www.toolswatch.org/badges/arsenal/2011.svg" /></a>`
+`<a href="https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/"><img alt="Black Hat Arsenal" src="https://www.toolswatch.org/badges/arsenal/2011.svg" /></a>`
 
 
 Change the link and image in the previous code to reflect the year of the Arsenal Session:
