@@ -19,7 +19,7 @@ OR, if your tool was ranked 1st (Best Tool)
 
 **Markdown code:**
 
-`[![Arsenal](https://www.toolswatch.org/badges/toptools/2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)`
+`[![ToolsWatch Best Tools](https://www.toolswatch.org/badges/toptools/2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)`
 
 **HTML code:**
 
@@ -58,7 +58,17 @@ If your tool was ranked 1st, consider using the following badges:
 
 Use only 1 badge per year even if your tool was selected for different sessions (USA, Europe or Asia). 
 
-Change the link and image in the previous the code to reflect the year of the Arsenal Session:
+
+**Markdown code:**
+
+`[![Arsenal](https://www.toolswatch.org/badges/arsenal/2011.svg)](https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/)`
+
+**HTML code:**
+
+`<a href="https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/"><img alt="top tools badge" src="https://www.toolswatch.org/badges/arsenal/2011.svg" /></a>`
+
+
+Change the link and image in the previous code to reflect the year of the Arsenal Session:
 
 * 2011:
     * badge: https://www.toolswatch.org/badges/arsenal/2011.svg 
