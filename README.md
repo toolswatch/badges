@@ -7,6 +7,7 @@ If your security tools has been ranked or accepted in a Black Hat Arsenal sessio
 ### Best Security Tools Snippets
 
  The following badges styles are available:
+ 
 [![Arsenal](https://www.toolswatch.org/badges/toptools/2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/)
 
 **Markdown code:**
