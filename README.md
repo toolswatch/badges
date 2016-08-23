@@ -98,6 +98,6 @@ Change the link and image in the previous code to reflect the year of the Arsena
 * 2016:
     * badge: https://www.toolswatch.org/badges/arsenal/2016.svg 
         * USA Session:  https://www.blackhat.com/us-16/arsenal.html
-        * Europe Session:  In November 2016
+        * Europe Session:  https://www.blackhat.com/eu-16/arsenal.html
         * Asia Session: https://www.blackhat.com/asia-16/arsenal.html
                     
