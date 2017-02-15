@@ -68,43 +68,43 @@ Use only 1 badge per year even if your tool was selected for different sessions 
 
 **Markdown code:**
 
-`[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2011.svg)](https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/)`
+`[![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2011.svg)](https://www.toolswatch.org/blackhat-arsenal-us-2011-archive/)`
 
 **HTML code:**
 
-`<a href="https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/"><img alt="Black Hat Arsenal" src="https://www.toolswatch.org/badges/arsenal/2011.svg" /></a>`
+`<a href="https://www.toolswatch.org/blackhat-arsenal-us-2011-archive/"><img alt="Black Hat Arsenal" src="https://www.toolswatch.org/badges/arsenal/2011.svg" /></a>`
 
 
 Change the link and image in the previous code to reflect the year of the Arsenal Session:
 
 * 2011:
     * badge: https://www.toolswatch.org/badges/arsenal/2011.svg 
-        * USA Session: https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html
+        * USA Session: https://www.toolswatch.org/blackhat-arsenal-us-2011-archive/
         
 * 2012:
     * badge: https://www.toolswatch.org/badges/arsenal/2012.svg 
-        * USA Session: https://www.blackhat.com/html/bh-us-12/bh-us-12-arsenal.html
-        * Europe Session: https://www.blackhat.com/html/bh-eu-12/bh-eu-12-arsenal.html 
+        * USA Session: https://www.toolswatch.org/blackhat-arsenal-us-2012-archive/
+        * Europe Session: https://www.toolswatch.org/blackhat-arsenal-europe-2012/ 
 
 * 2013:
     * badge: https://www.toolswatch.org/badges/arsenal/2013.svg 
-        * USA Session: http://www.blackhat.com/us-13/arsenal.html
-        * Europe Session: https://www.blackhat.com/eu-13/arsenal.html
+        * USA Session: https://www.toolswatch.org/2013/06/announcement-blackhat-arsenal-usa-2013-selected-tools/
+        * Europe Session: https://www.toolswatch.org/2013/02/selected-tools-for-blackhat-arsenal-europe-2013/
         
 * 2014:
     * badge: https://www.toolswatch.org/badges/arsenal/2014.svg 
-        * USA Session: https://www.blackhat.com/us-14/arsenal.html
-        * Europe Session: https://www.blackhat.com/eu-14/arsenal.html
+        * USA Session: https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/
+        * Europe Session: https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/
             
 * 2015:
     * badge: https://www.toolswatch.org/badges/arsenal/2015.svg 
-        * USA Session: https://www.blackhat.com/us-15/arsenal.html
-        * Europe Session: https://www.blackhat.com/eu-15/arsenal.html
-        * Asia Session: https://www.blackhat.com/asia-15/arsenal.html
+        * USA Session: https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/
+        * Europe Session: https://www.toolswatch.org/2015/10/black-hat-arsenal-europe-2015-line-up/
+        * Asia Session: https://www.toolswatch.org/2015/03/black-hat-asia-2015-arsenal-speaker-list/
         
 * 2016:
     * badge: https://www.toolswatch.org/badges/arsenal/2016.svg 
-        * USA Session:  https://www.blackhat.com/us-16/arsenal.html
-        * Europe Session:  https://www.blackhat.com/eu-16/arsenal.html
-        * Asia Session: https://www.blackhat.com/asia-16/arsenal.html
+        * USA Session:  https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/
+        * Europe Session:  https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/
+        * Asia Session: https://www.toolswatch.org/2016/03/black-hat-arsenal-asia-2016-speakers-line-up/
                     
