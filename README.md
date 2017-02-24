@@ -29,33 +29,33 @@ Change the link and image in the previous the code to reflect the year of the su
 
 * 2013:
     * link: https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/
-    * badge: https://www.toolswatch.org/badges/toptools/2013.svg 
+    * badge: hhttps://github.com/toolswatch/badges/blob/master/toptools/2013.svg 
     
 * 2014:
     * link: https://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/ 
-    * badge: https://www.toolswatch.org/badges/toptools/2014.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2014.svg 
 
 * 2015:
     * link: https://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/ 
-    * badge: https://www.toolswatch.org/badges/toptools/2015.svg
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2015.svg
     
 * 2016:
     * link: https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/ 
-    * badge: https://www.toolswatch.org/badges/toptools/2016.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2016.svg 
 
 If your tool was ranked 1st, consider using the following badges:
 
 * 2013:
-    * badge: https://www.toolswatch.org/badges/toptools/rank1_2013.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2013.svg 
     
 * 2014:
-    * badge: https://www.toolswatch.org/badges/toptools/rank1_2014.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2014.svg
 
 * 2015:
-    * badge: https://www.toolswatch.org/badges/toptools/rank1_2015.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2015.svg
    
 * 2016:
-    * badge: https://www.toolswatch.org/badges/toptools/rank1_2016.svg
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2016.svg
 
 ### Black Hat Arsenal Snippets
 
@@ -78,33 +78,37 @@ Use only 1 badge per year even if your tool was selected for different sessions 
 Change the link and image in the previous code to reflect the year of the Arsenal Session:
 
 * 2011:
-    * badge: https://www.toolswatch.org/badges/arsenal/2011.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2011.svg
         * USA Session: https://www.toolswatch.org/blackhat-arsenal-us-2011-archive/
         
 * 2012:
-    * badge: https://www.toolswatch.org/badges/arsenal/2012.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2012.svg 
         * USA Session: https://www.toolswatch.org/blackhat-arsenal-us-2012-archive/
         * Europe Session: https://www.toolswatch.org/blackhat-arsenal-europe-2012/ 
 
 * 2013:
-    * badge: https://www.toolswatch.org/badges/arsenal/2013.svg 
+    * badge: hhttps://github.com/toolswatch/badges/blob/master/arsenal/2013.svg
         * USA Session: https://www.toolswatch.org/2013/06/announcement-blackhat-arsenal-usa-2013-selected-tools/
         * Europe Session: https://www.toolswatch.org/2013/02/selected-tools-for-blackhat-arsenal-europe-2013/
         
 * 2014:
-    * badge: https://www.toolswatch.org/badges/arsenal/2014.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2014.svg
         * USA Session: https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/
         * Europe Session: https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/
             
 * 2015:
-    * badge: https://www.toolswatch.org/badges/arsenal/2015.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2015.svg
         * USA Session: https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/
         * Europe Session: https://www.toolswatch.org/2015/10/black-hat-arsenal-europe-2015-line-up/
         * Asia Session: https://www.toolswatch.org/2015/03/black-hat-asia-2015-arsenal-speaker-list/
         
 * 2016:
-    * badge: https://www.toolswatch.org/badges/arsenal/2016.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2016.svg
         * USA Session:  https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/
         * Europe Session:  https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/
         * Asia Session: https://www.toolswatch.org/2016/03/black-hat-arsenal-asia-2016-speakers-line-up/
                     
+* 2017:
+    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2017.svg
+        * Asia Session: https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/
+                         
