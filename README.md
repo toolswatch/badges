@@ -29,7 +29,7 @@ Change the link and image in the previous the code to reflect the year of the su
 
 * 2013:
     * link: https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/
-    * badge: hhttps://github.com/toolswatch/badges/blob/master/toptools/2013.svg 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2013.svg 
     
 * 2014:
     * link: https://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/ 
