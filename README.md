@@ -43,6 +43,10 @@ Change the link and image in the previous the code to reflect the year of the su
     * link: https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/ 
     * badge: https://github.com/toolswatch/badges/blob/master/toptools/2016.svg 
 
+* 2017:
+    * link: https://www.toolswatch.org/2018/01/black-hat-arsenal-top-10-security-tools/ 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2017.svg 
+
 If your tool was ranked 1st, consider using the following badges:
 
 * 2013:
@@ -56,6 +60,9 @@ If your tool was ranked 1st, consider using the following badges:
    
 * 2016:
     * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2016.svg
+   
+* 2017:
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2017.svg
 
 ### Black Hat Arsenal Snippets
 
