@@ -139,3 +139,8 @@ Change the link and image in the previous code to reflect the year of the Arsena
          * badge: https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2018.svg
     * Asia Session: https://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/
          * badge: https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2018.svg
+* 2019:
+    * USA Session: http://www.toolswatch.org/2019/05/amazing-black-hat-arsenal-usa-2019-lineup-announced/
+         * badge: https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2019.svg
+    * Asia Session: http://www.toolswatch.org/2019/01/black-hat-arsenal-asia-2019-lineup-announced/
+         * badge: https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2019.svg
